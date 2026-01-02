@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/shabnam-font/5.0.1/font-face.css');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mirza:wght@400;700&display=swap');
+
+
+
+/* Text areas (Classic Notebook + JupyterLab) */
+.rendered_html, .text_cell_render, .jp-RenderedHTMLCommon,
+div.rendered_html, .output_subarea {
+  font-family: "Vazirmatn", "Shabnam", "Mirza", "Amiri", Tahoma, "Segoe UI", sans-serif !important;
+}
+
+/* RTL for rendered markdown/html content */
+.rendered_html, .text_cell_render, .jp-RenderedHTMLCommon,
+h1, h2, h3, h4, h5, h6, p, strong, label, ol, ul, li {
+  direction: rtl !important;
+  text-align: right !important;
+  line-height: 1.9;
+  font-family: "Vazirmatn", "Shabnam", "Mirza", "Amiri", Tahoma, "Segoe UI", sans-serif !important;
+}
+
+h1 { font-size: 2rem; color: #070F2B; font-weight: 900}
+h2 { font-size: 1.8rem; color: #070F2B; font-weight: 800}
+h3 { font-size: 1.6rem; color: #070F2B; font-weight: 700}
+h4 { font-size: 1.4rem; color: #1E3E62; font-weight: 600}
+h5 { font-size: 1.2rem; color: #1E3E62}
+h6 { font-size: 1rem; color: #1E3E62}
+p { font-size: 1.1rem; ; font-weight: 400}
+ol, ul, li, th, td  { font-size: 1rem; }
+
+/* Keep code + outputs LTR and monospace */
+.CodeMirror, .CodeMirror *,
+pre, code,
+.jp-CodeCell .jp-InputArea, .jp-CodeCell .jp-InputArea *,
+.jp-OutputArea, .jp-OutputArea * {
+  direction: ltr !important;
+  text-align: left !important;
+  font-size: 1rem !important;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace !important;
+}

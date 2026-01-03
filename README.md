@@ -209,9 +209,9 @@ This ensures the Persian notebooks render correctly and consistently.
 
 A short video walkthrough shows how to download/clone the repo and run the notebooks.
 
-<a href="" target="_blank">
+<a href="https://www.youtube.com/watch?v=HwZptWXj4pA" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/My_video/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/HwZptWXj4pA/maxresdefault.jpg"
     alt="ODE/PDE in C# - Implementation Tutorial"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
   />

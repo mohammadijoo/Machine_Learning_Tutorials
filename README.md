@@ -157,8 +157,8 @@ python -m pip install -r requrement.txt
 
 ### Clone with Git
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO>.git
-cd <YOUR-REPO>
+git clone https://github.com/mohammadijoo/Machine_Learning_Tutorials.git
+cd Machine_Learning_Tutorials
 ```
 
 ---

@@ -104,9 +104,9 @@ jupyter lab
 jupyter notebook
 ```
 
-### 3) Install course dependencies (requrement.txt)
+### 3) Install course dependencies (requirement.txt)
 
-This repository includes a **`requrement.txt`** file (intentionally kept as the repo’s dependency manifest).  
+This repository includes a **`requirement.txt`** file (intentionally kept as the repo’s dependency manifest).  
 It lists the **Python packages used throughout the notebooks** (NumPy, Pandas, Matplotlib, SciPy, scikit-learn, and supporting tools).
 
 #### Option A — Create a virtual environment (recommended) and install with pip
@@ -128,7 +128,7 @@ source .venv/bin/activate
 
 # Upgrade pip and install dependencies
 python -m pip install --upgrade pip
-python -m pip install -r requrement.txt
+python -m pip install -r requirement.txt
 ```
 
 Then start Jupyter from the repo root:
@@ -144,7 +144,7 @@ jupyter notebook
 conda create -n ml-tutorials python=3.11
 conda activate ml-tutorials
 python -m pip install --upgrade pip
-python -m pip install -r requrement.txt
+python -m pip install -r requirement.txt
 ```
 
 ---

@@ -682,6 +682,20 @@ For a structured path through the repository:
 
 ---
 
+## YouTube walkthrough
+
+A short video walkthrough shows how to download/clone the repo and run the notebooks.
+
+<a href="https://www.youtube.com/watch?v=HwZptWXj4pA" target="_blank">
+  <img
+    src="https://i.ytimg.com/vi/HwZptWXj4pA/maxresdefault.jpg"
+    alt="Machine Learning Notebooks Implementation Tutorial"
+    style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
+  />
+</a>
+
+---
+
 ## License
 
 This project is released under the **MIT License**. See the `LICENSE` file for details.

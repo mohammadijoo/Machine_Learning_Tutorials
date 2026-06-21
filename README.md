@@ -21,23 +21,23 @@ Datasets/
 Tutorials/
   English/
     Chapter1/
-      Chapter1_Lesson1.ipynb
-      Chapter1_Lesson2.ipynb
+      Chapter1_Lesson01.ipynb
+      Chapter1_Lesson02.ipynb
       ...
     ...
     Chapter37/
-      Chapter37_Lesson1.ipynb
-      Chapter37_Lesson2.ipynb
+      Chapter37_Lesson01.ipynb
+      Chapter37_Lesson02.ipynb
       ...
   Persian/
     Chapter1/
-      Chapter1_Lesson1_Fa.ipynb
-      Chapter1_Lesson2_Fa.ipynb
+      Chapter1_Lesson01_Fa.ipynb
+      Chapter1_Lesson02_Fa.ipynb
       ...
     ...
     Chapter37/
-      Chapter37_Lesson1_Fa.ipynb
-      Chapter37_Lesson2_Fa.ipynb
+      Chapter37_Lesson01_Fa.ipynb
+      Chapter37_Lesson02_Fa.ipynb
       ...
 css/
   rtl.css           # RTL styles used by Persian notebooks
